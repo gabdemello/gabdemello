@@ -1,6 +1,6 @@
 # 🦅 About Me:
 - 🎓 Future software engineer 1/4
-- 🌱 In constant learning in Java | Kotlin
+- 🌱 In constant learning in Java | React & Next
 - 🚀 Goal: Contribute with my knowledge and experiences to individuals who want to enter the technology field or advance in their careers.
 
 # ⚡️ Stack:
