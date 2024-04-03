@@ -1,5 +1,5 @@
 # 🦅 About Me:
-- 🎓 Future software engineer 1/4
+- 🎓 Future software engineer 4/8
 - 🌱 In constant learning in Angular | Java
 - 🚀 Goal: Contribute with my knowledge and experiences to individuals who want to enter the technology field or advance in their careers.
 
